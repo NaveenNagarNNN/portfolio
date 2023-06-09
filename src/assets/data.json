@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "30/12/2022",
+      "title": "TECHY STAR",
+      "description": "This is the sample website for any firm including contact form",
+      "url": "https://techystarr.netlify.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+
+    {
+      "date": "11/03/2023",
+      "title": "VIDEO HUB",
+      "description": "This project is for uploading videos and other stuff.It can allow to upload videos from local storage",
+      "url": "https://videos-hub.netlify.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "15/02/2023",
+      "title": "XCrypto",
+      "description": "This project give the latest update about the crypto currency",
+      "url": "https://mycrptoapp.netlify.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "17/04/2023",
+      "title": "REACT CART",
+      "description": "In this project I created a Online store by using React & Redux and It will work dynamically",
+      "url": "https://master--storied-mousse-3cd4d4.netlify.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "20/01/2023",
+      "title": "IMDB",
+      "description": "This is imdb movie clone created using Tailwind CSS and imdb API ",
+      "url": "https://imdbclone-cyvm.onrender.com",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
