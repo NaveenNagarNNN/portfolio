@@ -2,13 +2,18 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDYAW9F1kP29j38dfZuZxK4lppUkSLD25c",
-  authDomain: "react-portfolio-abhishek.firebaseapp.com",
-  projectId: "react-portfolio-abhishek",
-  storageBucket: "react-portfolio-abhishek.appspot.com",
-  messagingSenderId: "278164302078",
-  appId: "1:278164302078:web:797fe5960bb12b5fca1daf",
+  apiKey: "AIzaSyAmB8tZeHRaiBpeJp4-zQ0yElJgX7JuT7I",
+  authDomain: "naveen-portfolio-react.firebaseapp.com",
+  projectId: "naveen-portfolio-react",
+  storageBucket: "naveen-portfolio-react.appspot.com",
+  messagingSenderId: "694658847575",
+  appId: "1:694658847575:web:a521b1d78c027bb9676412"
 };
 
 export const app = initializeApp(firebaseConfig);
 export const db = getFirestore();
+
+
+
+
+
